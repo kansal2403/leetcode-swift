@@ -3,5 +3,6 @@
     <pages>
         <page name='TwoSum'/>
         <page name='IsPalindrome'/>
+        <page name='RomanToInteger'/>
     </pages>
 </playground>
